@@ -1,4 +1,4 @@
-# knking-c2
+# KNK-C2-Answers
 
 Answers of Excercises and Selected Projects in Chapter1~20 from the Book "C Programming: A Modern Approach, 2nd Edition" . 
 
